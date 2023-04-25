@@ -1,15 +1,15 @@
 {
-  "name": "parcel-project-template",
+  "name": "github-resume",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Volodymyr-Mospan.github.io/github-resume-test",
+  "homepage": "https://Volodymyr-Mospan.github.io/github-resume",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /github-resume-test/"
+    "build": "parcel build src/*.html --public-url /github-resume/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Volodymyr-Mospan/github-resume-test.git"
+    "url": "git+https://github.com/Volodymyr-Mospan/github-resume.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
